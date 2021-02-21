@@ -14,7 +14,7 @@ Wiz is very early in stage, so please make sure you lock your versions to reduce
 
 ### Formatting
 
-Make sure you run `deno fmt` before committing!
+Make sure you run prettier before committing!
 
 ### Testing
 
