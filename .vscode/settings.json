@@ -2,7 +2,5 @@
 	"deno.enable": true,
 	"deno.lint": true,
 	"deno.unstable": false,
-	"[typescript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	}
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
 }
