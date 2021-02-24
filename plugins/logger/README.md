@@ -8,7 +8,7 @@ Just import the `Logger` class and add it to your `Wiz` instance's plugins like 
 
 ```ts
 import { Wiz } from "https://deno.land/x/wiz/mod.ts";
-import { Logger } from "https://deno.land/x/wiz_plugin_logger/mod.ts";
+import { Logger } from "https://deno.land/x/wiz_logger/mod.ts";
 
 const logger = new Logger();
 
